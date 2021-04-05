@@ -1,0 +1,154 @@
+Entity,Code,Year,"Rice production tonnes"
+Afghanistan,AFG,2018,352177
+Africa,"",2018,33174017
+Albania,ALB,2018,0
+Algeria,DZA,2018,313
+Americas,"",2018,38763843
+Angola,AGO,2018,56441
+Argentina,ARG,2018,1367968
+Asia,"",2018,705393401
+"Asia, Central","",2018,965263
+Australia,AUS,2018,635113
+Australia & New Zealand,"",2018,635113
+Azerbaijan,AZE,2018,11975
+Bangladesh,BGD,2018,56417319
+Belize,BLZ,2018,13375
+Benin,BEN,2018,459313
+Bhutan,BTN,2018,88753
+Bolivia,BOL,2018,541157
+Brazil,BRA,2018,11749192
+Brunei,BRN,2018,1569
+Bulgaria,BGR,2018,63415
+Burkina Faso,BFA,2018,160949
+Burundi,BDI,2018,55671
+Cambodia,KHM,2018,10647212
+Cameroon,CMR,2018,332534
+Caribbean,"",2018,1272004
+Central African Republic,CAF,2018,11108
+Central America,"",2018,1249354
+Chad,TCD,2018,259540
+Chile,CHL,2018,192808
+China,CHN,2018,214078796
+Colombia,COL,2018,3322937
+Comoros,COM,2018,31340
+Congo,COG,2018,1196
+Costa Rica,CRI,2018,158311
+Cote d'Ivoire,CIV,2018,2109333
+Cuba,CUB,2018,460870
+Democratic Republic of Congo,COD,2018,990139
+Dominican Republic,DOM,2018,627362
+Eastern Africa,"",2018,8064275
+Eastern Asia,"",2018,231089733
+Eastern Europe,"",2018,1226173
+Ecuador,ECU,2018,1350093
+Egypt,EGY,2018,4900000
+El Salvador,SLV,2018,22764
+Eswatini,SWZ,2018,83
+Ethiopia,ETH,2018,144200
+Europe,"",2018,4022957
+"Europe, Western","",2018,73306
+European Union,"",2018,2895793
+Fiji,FJI,2018,7051
+France,FRA,2018,73306
+French Guiana,GUF,2018,2853
+Gabon,GAB,2018,1830
+Gambia,GMB,2018,53809
+Ghana,GHA,2018,769401
+Greece,GRC,2018,222690
+Guatemala,GTM,2018,31498
+Guinea,GIN,2018,2339747
+Guinea-Bissau,GNB,2018,171239
+Guyana,GUY,2018,964472
+Haiti,HTI,2018,183000
+Honduras,HND,2018,59698
+Hong Kong,HKG,2018,0
+Hungary,HUN,2018,11971
+India,IND,2018,172580000
+Indonesia,IDN,2018,83037000
+Iran,IRN,2018,1990000
+Iraq,IRQ,2018,274788
+Italy,ITA,2018,1512241
+Jamaica,JAM,2018,0
+Japan,JPN,2018,9727500
+Kazakhstan,KAZ,2018,482945
+Kenya,KEN,2018,110325
+Kyrgyzstan,KGZ,2018,40783
+Land Locked Developing Countries,"",2018,16047817
+Laos,LAO,2018,3584700
+Least Developed Countries,"",2018,120005145
+Liberia,LBR,2018,257995
+Low Income Food Deficit Countries,"",2018,302835299
+Madagascar,MDG,2018,4030000
+Malawi,MWI,2018,112313
+Malaysia,MYS,2018,2718987
+Mali,MLI,2018,3167528
+Mauritania,MRT,2018,232196
+Mauritius,MUS,2018,19
+Melanesia,OWID_MNS,2018,10638
+Mexico,MEX,2018,283763
+Micronesia (country),FSM,2018,177
+Micronesia (region),"",2018,177
+Middle Africa,"",2018,1652788
+Morocco,MAR,2018,63037
+Mozambique,MOZ,2018,134105
+Myanmar,MMR,2018,25418142
+Nepal,NPL,2018,5151925
+Net Food Importing Developing Countries,"",2018,147146281
+Nicaragua,NIC,2018,365000
+Niger,NER,2018,101607
+Nigeria,NGA,2018,6809327
+North Korea,PRK,2018,2088000
+North Macedonia,MKD,2018,19732
+Northern Africa,"",2018,4993350
+Northern America,"",2018,10170040
+Oceania,"",2018,645929
+Pakistan,PAK,2018,10802949
+Panama,PAN,2018,314946
+Papua New Guinea,PNG,2018,850
+Paraguay,PRY,2018,894600
+Peru,PER,2018,3557900
+Philippines,PHL,2018,19066094
+Portugal,PRT,2018,160648
+Puerto Rico,PRI,2018,186
+Reunion,REU,2018,304
+Romania,ROU,2018,43355
+Russia,RUS,2018,1038222
+Rwanda,RWA,2018,119932
+Saudi Arabia,SAU,2018,0
+Senegal,SEN,2018,762776
+Sierra Leone,SLE,2018,919785
+Small island developing States,"",2018,2823828
+Solomon Islands,SLB,2018,2737
+Somalia,SOM,2018,4766
+South Africa,ZAF,2018,3026
+South America,"",2018,26072445
+South Eastern Asia,"",2018,220798688
+South Korea,KOR,2018,5195437
+Southern Africa,"",2018,3109
+Southern Asia,"",2018,251312954
+Southern Europe,"",2018,2723478
+Spain,ESP,2018,808167
+Sri Lanka,LKA,2018,3929831
+Sudan,SDN,2018,30000
+Suriname,SUR,2018,273916
+Taiwan,TWN,2018,1949796
+Tajikistan,TJK,2018,90446
+Tanzania,TZA,2018,3016695
+Thailand,THA,2018,32192087
+Timor,TLS,2018,86647
+Togo,TGO,2018,145489
+Trinidad and Tobago,TTO,2018,586
+Turkey,TUR,2018,940000
+Turkmenistan,TKM,2018,130000
+Uganda,UGA,2018,260786
+Ukraine,UKR,2018,69210
+United States,USA,2018,10170040
+Uruguay,URY,2018,1360000
+Uzbekistan,UZB,2018,221089
+Venezuela,VEN,2018,494549
+Vietnam,VNM,2018,44046250
+Western Africa,"",2018,18460494
+Western Asia,"",2018,1226763
+World,OWID_WRL,2018,782000147
+Zambia,ZMB,2018,43063
+Zimbabwe,ZWE,2018,755
